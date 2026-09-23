@@ -20,7 +20,14 @@ This repository contains an end-to-end **Power BI** analysis focused on manufact
 * **Visual Insights:** Comprehensive report views backed by dashboard previews included in the `Screenshots/` directory.
 
 ---
+## 📷 Dashboard Previews
 
+![Executive Overview](./Screenshot%202026-09-23%20204937.png)
+![Production Analysis](./Screenshot%202026-09-23%20205007.png)
+![Downtime & Quality Logs](./Screenshot%202026-09-23%20205034.png)
+![Detailed Breakdown](./Screenshot%202026-09-23%20205059.png)
+
+---
 ## 📁 Project Structure
 ```text
 .
